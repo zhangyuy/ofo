@@ -1,0 +1,19 @@
+{
+  "pages":[
+"pages/index/index",
+"pages/warn/index",
+
+"pages/billing/index",
+"pages/scanResult/index"
+ 
+ 
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#b9dd08",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "ofo",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
